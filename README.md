@@ -2,7 +2,7 @@
 
 ### 1.项目架构
 
-![image](https://https://github.com/chenzhengyin/multi-page-electron-project/tree/master/image/1.png)
+![image](https://github.com/chenzhengyin/multi-page-electron-project/tree/master/image/1.png)
 
 #### 1.1 所了解的前端架构
 ##### 1.1.1 vue单页面工程
@@ -41,7 +41,7 @@
 - ['module1']
 - ['module2']
 
-![image](https://https://github.com/chenzhengyin/multi-page-electron-project/tree/master/image/2.png)
+![image](https://github.com/chenzhengyin/multi-page-electron-project/tree/master/image/2.png)
 
 ### 3.支持编译命令
 
